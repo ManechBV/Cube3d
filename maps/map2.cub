@@ -1,0 +1,16 @@
+NO ./res/wallNO.xpm
+SO ./res/wallSO.xpm
+WE ./res/wallSO.xpm
+EA ./res/wallEA.xpm
+
+F 100,214,2
+C 10,10,10
+
+1111111
+1000001
+1010101
+1000001
+100W001
+1000001
+1000001
+1111111
